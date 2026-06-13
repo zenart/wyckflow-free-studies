@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+                             http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.orderflow</groupId>
+    <artifactId>wyckflow-free-studies</artifactId>
+    <version>1.0.0</version>
+    <packaging>jar</packaging>
+
+    <name>WyckFlow Free Studies for MotiveWave</name>
+    <description>
+        Open-source Cumulative Volume Delta (CVD) and Bid/Ask Volume studies 
+        compatible with MotiveWave Community and Standard editions.
+    </description>
+
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <mwave.sdk>/Applications/MotiveWave.app/Contents/Java/mwave_sdk.jar</mwave.sdk>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.motivewave</groupId>
+            <artifactId>mwave-sdk</artifactId>
+            <version>local</version>
+            <scope>system</scope>
+            <systemPath>${mwave.sdk}</systemPath>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <finalName>WyckFlowFreeStudies</finalName>
+    </build>
+</project>

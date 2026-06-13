@@ -84,7 +84,7 @@ import java.util.Map;
     name           = "Cumulative Volume Delta (CVD)",
     desc           = "Cumulative volume delta drawn as OHLC candles with auto-fit scaling and "
                     + "automatic price/CVD divergence detection. Community-compatible.",
-    menu           = "WyckFlow",
+    menu           = "WyckFlow.com",
     overlay        = false,
     requiresVolume = true,
     requiresBidAskHistory = true,

@@ -1,4 +1,4 @@
-# WyckFlow Free Studies for MotiveWave
+# WyckFlow.com Free Studies for MotiveWave
 
 A clean-room open-source implementation of Cumulative Volume Delta (CVD) and Bid/Ask Volume studies compatible with MotiveWave Community and Standard editions. 
 
@@ -38,7 +38,7 @@ These studies provide the core order-flow analysis layer (volume classification 
 1.  Copy the compiled `WyckFlowFreeStudies.jar` to your MotiveWave extensions directory:
     *   **macOS / Windows:** Drop the jar into `~/MotiveWave Extensions/`
 2.  Restart MotiveWave.
-3.  The studies will be available under the **WyckFlow** menu group (or via the Study search dialog).
+3.  The studies will be available under the **WyckFlow.com** menu group (or via the Study search dialog).
 
 ## License
 

@@ -33,7 +33,7 @@ import com.motivewave.platform.sdk.study.StudyHeader;
     name           = "Bid/Ask Volume",
     desc           = "Plots bid-aggressor volume and ask-aggressor volume as two separate paths "
                     + "in a sub-plot. Community-compatible.",
-    menu           = "WyckFlow",
+    menu           = "WyckFlow.com",
     overlay        = false,
     requiresVolume = true,
     supportsBarUpdates = true,

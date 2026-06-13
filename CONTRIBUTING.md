@@ -1,6 +1,6 @@
-# Contributing to WyckFlow Free Studies
+# Contributing to WyckFlow.com Free Studies
 
-Thank you for your interest in contributing to the WyckFlow Free Studies! 
+Thank you for your interest in contributing to the WyckFlow.com Free Studies! 
 
 ## Code of Conduct
 

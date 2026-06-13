@@ -10,7 +10,7 @@
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>WyckFlow Free Studies for MotiveWave</name>
+    <name>WyckFlow.com Free Studies for MotiveWave</name>
     <description>
         Open-source Cumulative Volume Delta (CVD) and Bid/Ask Volume studies 
         compatible with MotiveWave Community and Standard editions.
